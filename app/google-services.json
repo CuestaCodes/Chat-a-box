@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920768840765",
+    "firebase_url": "https://chat-a-box-52bd1.firebaseio.com",
+    "project_id": "chat-a-box-52bd1",
+    "storage_bucket": "chat-a-box-52bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920768840765:android:13fde896b66df8bb",
+        "android_client_info": {
+          "package_name": "com.renelcuesta.chat_a_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920768840765-oq589qcrid517agv4rpr7alkujr9i57u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2fEnErhROmMa6esrUM9tUL1o7oRYNiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920768840765-oq589qcrid517agv4rpr7alkujr9i57u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

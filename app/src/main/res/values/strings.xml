@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat-a-box</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="brackets">(%1$s)</string>
+    <string name="welcome_messages">Hello, %1$s! You have %2$d new messages.</string>
+</resources>
